@@ -1,0 +1,43 @@
+history
+sudo apt list | grep i python3.10
+sudo apt-get remove python3.10
+wget https://www.python.org/ftp/python/3.10.0/Python-3.10.0.tgz
+tar -xvzf Python-3.10.0.tgz
+cd Python3.10.0
+1s
+cd Python-3.10.0
+./configure --enable-optimizations
+mkdir -p $HOME/python3.10
+./configure --prefix=$HOME/python3.10 --enable-optimizations
+make-j$(nproc)
+make install 
+ls
+cd python3.10
+ls
+python3 -V
+cd Python-3.10.0
+export LDFLAGS="-L$HOME/openssl/lib"
+export CPPFLAGS="-I$HOME/openssl/include"
+./configure --prefix=$HOME/opt/python-3.10.6 --with-openssl=$HOME/opt/ssl --with-openssl-rpath=auto
+clear
+make -j$(nproc)
+make install
+python3.10 -m ssl
+pip install label-studio
+wget https://bootstrap.pypa.io/get-pip.py
+python get-pip.py --user
+python3 get-pip.py --user
+clear
+python3 --version
+ls
+python3 get-pip.py
+pip install label-studio
+pip3 install label-studio
+python3 -m venv myenv
+sudo apt install python3-venv
+python3 -m venv myenv
+pip install conda 
+pip install anaconda
+
+
+

@@ -1,7 +1,7 @@
 [
   {
     "text": "मैं Aparna Athreya हूँ, मैं दो बच्चों की माँ हूँ, एक भारतीय वायुसेना के अफसर की बीवी हूँ और एक passionate storyteller हूँ सर।",
-    "id": 14740,
+    "id": 29179,
     "label": [
       {
         "start": 0,
@@ -16,15 +16,15 @@
         "end": 10,
         "text": "Aparna",
         "labels": [
-          "NOUN"
+          "PROPN"
         ]
       },
       {
-        "start": 11,
+        "start": 10,
         "end": 18,
-        "text": "Athreya",
+        "text": " Athreya",
         "labels": [
-          "NOUN"
+          "PROPN"
         ]
       },
       {
@@ -40,7 +40,7 @@
         "end": 27,
         "text": "मैं",
         "labels": [
-          "PRON"
+          "NOUN"
         ]
       },
       {
@@ -112,7 +112,7 @@
         "end": 71,
         "text": "के",
         "labels": [
-          "NOUN"
+          "ADP"
         ]
       },
       {
@@ -176,7 +176,7 @@
         "end": 117,
         "text": "storyteller",
         "labels": [
-          "PROPN"
+          "NOUN"
         ]
       },
       {
@@ -192,19 +192,19 @@
         "end": 124,
         "text": "सर",
         "labels": [
-          "NOUN"
+          "X"
         ]
       }
     ],
     "annotator": 1,
-    "annotation_id": 41,
-    "created_at": "2025-01-26T12:40:16.191020Z",
-    "updated_at": "2025-01-26T12:40:16.191020Z",
-    "lead_time": 212.457
+    "annotation_id": 44,
+    "created_at": "2025-01-26T12:40:32.825634Z",
+    "updated_at": "2025-01-26T12:40:32.825634Z",
+    "lead_time": 192.564
   },
   {
     "text": "वहां Ecological Protection Organisation नाम के एक NGO की पूरी टीम ने चंद्रपुर किले में सफाई का अभियान चलाया।",
-    "id": 14741,
+    "id": 29180,
     "label": [
       {
         "start": 0,
@@ -219,7 +219,7 @@
         "end": 15,
         "text": "Ecological",
         "labels": [
-          "PROPN"
+          "NOUN"
         ]
       },
       {
@@ -227,7 +227,7 @@
         "end": 26,
         "text": "Protection",
         "labels": [
-          "PROPN"
+          "NOUN"
         ]
       },
       {
@@ -235,7 +235,7 @@
         "end": 39,
         "text": "Organisation",
         "labels": [
-          "PROPN"
+          "NOUN"
         ]
       },
       {
@@ -243,7 +243,7 @@
         "end": 43,
         "text": "नाम",
         "labels": [
-          "PRON"
+          "NOUN"
         ]
       },
       {
@@ -267,7 +267,7 @@
         "end": 53,
         "text": "NGO",
         "labels": [
-          "NOUN"
+          "PROPN"
         ]
       },
       {
@@ -283,7 +283,7 @@
         "end": 61,
         "text": "पूरी",
         "labels": [
-          "ADP"
+          "PRON"
         ]
       },
       {
@@ -307,7 +307,7 @@
         "end": 77,
         "text": "चंद्रपुर",
         "labels": [
-          "NOUN"
+          "PROPN"
         ]
       },
       {
@@ -323,7 +323,7 @@
         "end": 86,
         "text": "में",
         "labels": [
-          "ADP"
+          "PROPN"
         ]
       },
       {
@@ -331,7 +331,7 @@
         "end": 91,
         "text": "सफाई",
         "labels": [
-          "NOUN"
+          "VERB"
         ]
       },
       {
@@ -339,7 +339,7 @@
         "end": 94,
         "text": "का",
         "labels": [
-          "ADP"
+          "CONJ"
         ]
       },
       {
@@ -360,14 +360,14 @@
       }
     ],
     "annotator": 1,
-    "annotation_id": 42,
-    "created_at": "2025-01-26T12:41:40.911737Z",
-    "updated_at": "2025-01-26T12:41:40.911737Z",
-    "lead_time": 83.05
+    "annotation_id": 45,
+    "created_at": "2025-01-26T12:43:58.389843Z",
+    "updated_at": "2025-01-26T12:43:58.389843Z",
+    "lead_time": 198.411
   },
   {
     "text": "मैं Ecological Protection Organisation के और उनकी पूरी टीम को और चंद्रपुर के नागरिकों को बहुत-बहुत बधाई देता हूँ।",
-    "id": 14742,
+    "id": 29181,
     "label": [
       {
         "start": 0,
@@ -446,7 +446,7 @@
         "end": 61,
         "text": "को",
         "labels": [
-          "ADP"
+          "PRON"
         ]
       },
       {
@@ -462,7 +462,7 @@
         "end": 73,
         "text": "चंद्रपुर",
         "labels": [
-          "NOUN"
+          "PROPN"
         ]
       },
       {
@@ -478,7 +478,7 @@
         "end": 85,
         "text": "नागरिकों",
         "labels": [
-          "NOUN"
+          "PROPN"
         ]
       },
       {
@@ -523,14 +523,14 @@
       }
     ],
     "annotator": 1,
-    "annotation_id": 43,
-    "created_at": "2025-01-26T12:45:35.868155Z",
-    "updated_at": "2025-01-26T12:45:35.868155Z",
-    "lead_time": 110.301
+    "annotation_id": 46,
+    "created_at": "2025-01-26T12:45:54.738554Z",
+    "updated_at": "2025-01-26T12:45:54.738554Z",
+    "lead_time": 114.367
   },
   {
     "text": "आप लोगों को पता होगा, America की US Postal Service, उन्होंने इस बार दीपावली का postage stamp जारी किया है।",
-    "id": 14743,
+    "id": 29182,
     "label": [
       {
         "start": 0,
@@ -569,7 +569,7 @@
         "end": 20,
         "text": "होगा",
         "labels": [
-          "VERB"
+          "PRON"
         ]
       },
       {
@@ -593,7 +593,7 @@
         "end": 35,
         "text": "US",
         "labels": [
-          "NOUN"
+          "PROPN"
         ]
       },
       {
@@ -625,7 +625,7 @@
         "end": 63,
         "text": "इस",
         "labels": [
-          "PRON"
+          "PROPN"
         ]
       },
       {
@@ -657,7 +657,7 @@
         "end": 86,
         "text": "postage",
         "labels": [
-          "NOUN"
+          "PROPN"
         ]
       },
       {
@@ -673,7 +673,7 @@
         "end": 97,
         "text": "जारी",
         "labels": [
-          "VERB"
+          "NOUN"
         ]
       },
       {
@@ -694,21 +694,21 @@
       }
     ],
     "annotator": 1,
-    "annotation_id": 44,
-    "created_at": "2025-01-26T12:47:55.921617Z",
-    "updated_at": "2025-01-26T12:47:55.921617Z",
-    "lead_time": 138.414
+    "annotation_id": 47,
+    "created_at": "2025-01-26T12:48:36.333807Z",
+    "updated_at": "2025-01-26T12:48:36.333807Z",
+    "lead_time": 159.425
   },
   {
     "text": "विशेष रूप से CSIR, Indian Institute of Petroleum, Dehradun के वैज्ञानिकों को, जिन्होनें bio-fuel से विमान उड़ाने की तकनीक को संभव कर दिया।",
-    "id": 14744,
+    "id": 29183,
     "label": [
       {
         "start": 0,
         "end": 5,
         "text": "विशेष",
         "labels": [
-          "ADJ"
+          "X"
         ]
       },
       {
@@ -748,7 +748,7 @@
         "end": 35,
         "text": "Institute",
         "labels": [
-          "NOUN"
+          "PROPN"
         ]
       },
       {
@@ -772,7 +772,7 @@
         "end": 58,
         "text": "Dehradun",
         "labels": [
-          "PROPN"
+          "NOUN"
         ]
       },
       {
@@ -788,7 +788,7 @@
         "end": 73,
         "text": "वैज्ञानिकों",
         "labels": [
-          "NOUN"
+          "PRON"
         ]
       },
       {
@@ -820,7 +820,7 @@
         "end": 99,
         "text": "से",
         "labels": [
-          "ADP"
+          "NOUN"
         ]
       },
       {
@@ -868,7 +868,7 @@
         "end": 128,
         "text": "संभव",
         "labels": [
-          "ADJ"
+          "X"
         ]
       },
       {
@@ -889,14 +889,14 @@
       }
     ],
     "annotator": 1,
-    "annotation_id": 45,
-    "created_at": "2025-01-26T12:50:20.416206Z",
-    "updated_at": "2025-01-26T12:50:20.416206Z",
-    "lead_time": 137.052
+    "annotation_id": 48,
+    "created_at": "2025-01-26T12:50:41.858864Z",
+    "updated_at": "2025-01-26T12:50:41.858864Z",
+    "lead_time": 124.028
   },
   {
     "text": "ये, दक्षिण अमेरिका में ANDES पर्वत की सबसे ऊँची चोटी है, जो लगभग 7000 meter ऊँची है।",
-    "id": 14745,
+    "id": 29184,
     "label": [
       {
         "start": 0,
@@ -935,7 +935,7 @@
         "end": 28,
         "text": "ANDES",
         "labels": [
-          "NOUN"
+          "text"
         ]
       },
       {
@@ -959,7 +959,7 @@
         "end": 42,
         "text": "सबसे",
         "labels": [
-          "X"
+          "ADJ"
         ]
       },
       {
@@ -1023,7 +1023,7 @@
         "end": 80,
         "text": "ऊँची",
         "labels": [
-          "ADJ"
+          "VERB"
         ]
       },
       {
@@ -1036,14 +1036,14 @@
       }
     ],
     "annotator": 1,
-    "annotation_id": 46,
-    "created_at": "2025-01-26T12:52:18.305192Z",
-    "updated_at": "2025-01-26T12:52:18.305192Z",
-    "lead_time": 115.047
+    "annotation_id": 49,
+    "created_at": "2025-01-26T12:52:38.931601Z",
+    "updated_at": "2025-01-26T12:52:38.931601Z",
+    "lead_time": 114.219
   },
   {
     "text": "एक प्राचीन पुर्तगाली दस्तावेज के मुताबिक Saint Queen Ketevan की अस्थियों को Old Goa के Saint Augustine Convent में रखा गया था।",
-    "id": 14746,
+    "id": 29185,
     "label": [
       {
         "start": 0,
@@ -1146,7 +1146,7 @@
         "end": 79,
         "text": "Old",
         "labels": [
-          "NOUN"
+          "PROPN"
         ]
       },
       {
@@ -1154,7 +1154,7 @@
         "end": 83,
         "text": "Goa",
         "labels": [
-          "NOUN"
+          "PROPN"
         ]
       },
       {
@@ -1210,7 +1210,7 @@
         "end": 122,
         "text": "गया",
         "labels": [
-          "VERB"
+          "NOUN"
         ]
       },
       {
@@ -1223,14 +1223,14 @@
       }
     ],
     "annotator": 1,
-    "annotation_id": 47,
-    "created_at": "2025-01-26T12:54:35.989714Z",
-    "updated_at": "2025-01-26T12:54:35.989714Z",
-    "lead_time": 136.348
+    "annotation_id": 50,
+    "created_at": "2025-01-26T12:55:28.956551Z",
+    "updated_at": "2025-01-26T12:55:28.956551Z",
+    "lead_time": 167.563
   },
   {
     "text": "गुजरात में नर्मदा नदी के तट पर स्थापित इस प्रतिमा की ऊँचाई अमेरिका के Statue of Liberty से दो गुनी है।",
-    "id": 14747,
+    "id": 29186,
     "label": [
       {
         "start": 0,
@@ -1253,7 +1253,7 @@
         "end": 17,
         "text": "नर्मदा",
         "labels": [
-          "PROPN"
+          "NOUN"
         ]
       },
       {
@@ -1261,7 +1261,7 @@
         "end": 21,
         "text": "नदी",
         "labels": [
-          "PROPN"
+          "NOUN"
         ]
       },
       {
@@ -1285,7 +1285,7 @@
         "end": 30,
         "text": "पर",
         "labels": [
-          "ADP"
+          "PART"
         ]
       },
       {
@@ -1293,7 +1293,7 @@
         "end": 38,
         "text": "स्थापित",
         "labels": [
-          "PART"
+          "NOUN"
         ]
       },
       {
@@ -1357,7 +1357,7 @@
         "end": 79,
         "text": "of",
         "labels": [
-          "PROPN"
+          "NOUN"
         ]
       },
       {
@@ -1402,14 +1402,14 @@
       }
     ],
     "annotator": 1,
-    "annotation_id": 48,
-    "created_at": "2025-01-26T12:57:14.099193Z",
-    "updated_at": "2025-01-26T12:57:14.099193Z",
-    "lead_time": 128.097
+    "annotation_id": 51,
+    "created_at": "2025-01-26T12:57:36.960820Z",
+    "updated_at": "2025-01-26T12:57:36.960820Z",
+    "lead_time": 120.966
   },
   {
     "text": "इसी तरह से Argentina में हुई Summer Youth Olympics 2018 के विजेताओं से मिलने का मौका मिला।",
-    "id": 14748,
+    "id": 29187,
     "label": [
       {
         "start": 0,
@@ -1528,7 +1528,7 @@
         "end": 79,
         "text": "का",
         "labels": [
-          "ADP"
+          "VERB"
         ]
       },
       {
@@ -1536,7 +1536,7 @@
         "end": 84,
         "text": "मौका",
         "labels": [
-          "PART"
+          "VERB"
         ]
       },
       {
@@ -1549,14 +1549,14 @@
       }
     ],
     "annotator": 1,
-    "annotation_id": 49,
-    "created_at": "2025-01-26T12:58:36.728411Z",
-    "updated_at": "2025-01-26T12:58:36.728411Z",
-    "lead_time": 75.412
+    "annotation_id": 52,
+    "created_at": "2025-01-26T12:58:58.575160Z",
+    "updated_at": "2025-01-26T12:58:58.587171Z",
+    "lead_time": 79.298
   },
   {
     "text": "मध्य भारत की गोंड जनजाति breeding season में केथन नदी के कुछ हिस्सों में मछली पकड़ना बंद कर देते हैं।",
-    "id": 14749,
+    "id": 29188,
     "label": [
       {
         "start": 0,
@@ -1595,7 +1595,7 @@
         "end": 24,
         "text": "जनजाति",
         "labels": [
-          "NOUN"
+          "PROPN"
         ]
       },
       {
@@ -1643,7 +1643,7 @@
         "end": 56,
         "text": "के",
         "labels": [
-          "NOUN"
+          "ADP"
         ]
       },
       {
@@ -1720,21 +1720,21 @@
       }
     ],
     "annotator": 1,
-    "annotation_id": 50,
-    "created_at": "2025-01-26T12:59:48.902980Z",
-    "updated_at": "2025-01-26T12:59:48.902980Z",
-    "lead_time": 71.027
+    "annotation_id": 53,
+    "created_at": "2025-01-26T13:00:09.306114Z",
+    "updated_at": "2025-01-26T13:00:09.306114Z",
+    "lead_time": 68.839
   },
   {
     "text": "NarendraModiApp पर उडुपी, कर्नाटक के श्री ओंकार शेट्टी जी ने National War Memorial तैयार होने पर अपनी प्रसन्नता व्यक्त की है।",
-    "id": 14750,
+    "id": 29189,
     "label": [
       {
         "start": 0,
         "end": 15,
         "text": "NarendraModiApp",
         "labels": [
-          "PROPN"
+          "NOUN"
         ]
       },
       {
@@ -1742,7 +1742,7 @@
         "end": 18,
         "text": "पर",
         "labels": [
-          "ADP"
+          "VERB"
         ]
       },
       {
@@ -1822,7 +1822,7 @@
         "end": 73,
         "text": "War",
         "labels": [
-          "NOUN"
+          "PROPN"
         ]
       },
       {
@@ -1854,7 +1854,7 @@
         "end": 96,
         "text": "पर",
         "labels": [
-          "ADP"
+          "PART"
         ]
       },
       {
@@ -1899,14 +1899,14 @@
       }
     ],
     "annotator": 1,
-    "annotation_id": 51,
-    "created_at": "2025-01-26T13:01:29.347388Z",
-    "updated_at": "2025-01-26T13:01:29.347388Z",
-    "lead_time": 97.321
+    "annotation_id": 54,
+    "created_at": "2025-01-26T13:01:51.408256Z",
+    "updated_at": "2025-01-26T13:01:51.408256Z",
+    "lead_time": 100.639
   },
   {
     "text": "ये उनका ही vision था जिसके परिणामस्वरूप Tata Institute of Science की स्थापना हुई जिसे अब Indian Institute of Science कहा जाता है।",
-    "id": 14751,
+    "id": 29190,
     "label": [
       {
         "start": 0,
@@ -1929,7 +1929,7 @@
         "end": 10,
         "text": "ही",
         "labels": [
-          "ADP"
+          "X"
         ]
       },
       {
@@ -1953,7 +1953,7 @@
         "end": 26,
         "text": "जिसके",
         "labels": [
-          "PRON"
+          "NOUN"
         ]
       },
       {
@@ -2009,7 +2009,7 @@
         "end": 76,
         "text": "स्थापना",
         "labels": [
-          "PART"
+          "NOUN"
         ]
       },
       {
@@ -2033,7 +2033,7 @@
         "end": 88,
         "text": "अब",
         "labels": [
-          "NOUN"
+          "VERB"
         ]
       },
       {
@@ -2094,14 +2094,14 @@
       }
     ],
     "annotator": 1,
-    "annotation_id": 52,
-    "created_at": "2025-01-26T13:04:09.820142Z",
-    "updated_at": "2025-01-26T13:04:09.820142Z",
-    "lead_time": 143.264
+    "annotation_id": 55,
+    "created_at": "2025-01-26T13:04:51.352927Z",
+    "updated_at": "2025-01-26T13:04:51.352927Z",
+    "lead_time": 161.623
   },
   {
     "text": "अब्दुल गफूर द्वारा बनाई गई ‘Tree of Life’ कलाकृति को ही मैंने अमेरिका के पूर्व राष्ट्रपति बराक ओबामा को उपहार में दिया था।",
-    "id": 14752,
+    "id": 29191,
     "label": [
       {
         "start": 0,
@@ -2260,7 +2260,7 @@
         "end": 109,
         "text": "उपहार",
         "labels": [
-          "NOUN"
+          "X"
         ]
       },
       {
@@ -2268,7 +2268,7 @@
         "end": 113,
         "text": "में",
         "labels": [
-          "ADP"
+          "VERB"
         ]
       },
       {
@@ -2289,21 +2289,21 @@
       }
     ],
     "annotator": 1,
-    "annotation_id": 53,
-    "created_at": "2025-01-26T13:06:39.969161Z",
-    "updated_at": "2025-01-26T13:06:39.969161Z",
-    "lead_time": 128.728
+    "annotation_id": 56,
+    "created_at": "2025-01-26T13:07:03.684824Z",
+    "updated_at": "2025-01-26T13:07:03.684824Z",
+    "lead_time": 130.41
   },
   {
     "text": "किसान चाची ने अपने इलाके की 300 महिलाओं को ‘Self Help Group’ से जोड़ा और आर्थिक रूप से स्वावलंबी बनाने के लिए प्रेरित किया।",
-    "id": 14753,
+    "id": 29192,
     "label": [
       {
         "start": 0,
         "end": 5,
         "text": "किसान",
         "labels": [
-          "NOUN"
+          "PROPN"
         ]
       },
       {
@@ -2335,7 +2335,7 @@
         "end": 24,
         "text": "इलाके",
         "labels": [
-          "NOUN"
+          "PRON"
         ]
       },
       {
@@ -2399,7 +2399,7 @@
         "end": 63,
         "text": "से",
         "labels": [
-          "ADP"
+          "PRON"
         ]
       },
       {
@@ -2471,7 +2471,7 @@
         "end": 108,
         "text": "लिए",
         "labels": [
-          "PART"
+          "VERB"
         ]
       },
       {
@@ -2492,14 +2492,14 @@
       }
     ],
     "annotator": 1,
-    "annotation_id": 54,
-    "created_at": "2025-01-26T13:09:40.037972Z",
-    "updated_at": "2025-01-26T13:09:40.037972Z",
-    "lead_time": 178.263
+    "annotation_id": 57,
+    "created_at": "2025-01-26T13:10:00.281928Z",
+    "updated_at": "2025-01-26T13:10:00.281928Z",
+    "lead_time": 169.516
   },
   {
     "text": "लखपत गुरुद्वारा के संरक्षण के प्रयासों को 2004 में UNESCO Asia Pacific Heritage Award में Award of Distinction दिया गया।",
-    "id": 14754,
+    "id": 29193,
     "label": [
       {
         "start": 0,
@@ -2546,7 +2546,7 @@
         "end": 38,
         "text": "प्रयासों",
         "labels": [
-          "VERB"
+          "NOUN"
         ]
       },
       {
@@ -2578,7 +2578,7 @@
         "end": 57,
         "text": "UNESCO",
         "labels": [
-          "PROPN"
+          "NOUN"
         ]
       },
       {
@@ -2642,7 +2642,7 @@
         "end": 110,
         "text": "Distinction",
         "labels": [
-          "NOUN"
+          "PROPN"
         ]
       },
       {
@@ -2663,14 +2663,14 @@
       }
     ],
     "annotator": 1,
-    "annotation_id": 55,
-    "created_at": "2025-01-26T13:11:11.613816Z",
-    "updated_at": "2025-01-26T13:11:11.613816Z",
-    "lead_time": 79.298
+    "annotation_id": 58,
+    "created_at": "2025-01-26T13:11:56.696522Z",
+    "updated_at": "2025-01-26T13:11:56.696522Z",
+    "lead_time": 114.819
   },
   {
     "text": "पराली का समाधान करने के लिए वीरेन्द्र जी ने, पुआल की गांठ बनाने वाली straw baler मशीन खरीदी।",
-    "id": 14755,
+    "id": 29194,
     "label": [
       {
         "start": 0,
@@ -2805,7 +2805,7 @@
         "end": 85,
         "text": "मशीन",
         "labels": [
-          "PROPN"
+          "DET"
         ]
       },
       {
@@ -2818,21 +2818,21 @@
       }
     ],
     "annotator": 1,
-    "annotation_id": 56,
-    "created_at": "2025-01-26T13:14:37.212580Z",
-    "updated_at": "2025-01-26T13:14:37.212580Z",
-    "lead_time": 182.083
+    "annotation_id": 59,
+    "created_at": "2025-01-26T13:14:58.709081Z",
+    "updated_at": "2025-01-26T13:14:58.709081Z",
+    "lead_time": 176.852
   },
   {
     "text": "मेरे प्यारे नौजवान साथियो, 15 अगस्त को लाल किले से मैंने ‘Start-up India, Stand-up India’ उसके संबंध में एक प्राथमिक चर्चा की थी।",
-    "id": 14756,
+    "id": 29195,
     "label": [
       {
         "start": 0,
         "end": 4,
         "text": "मेरे",
         "labels": [
-          "PRON"
+          "NOUN"
         ]
       },
       {
@@ -2936,7 +2936,7 @@
         "end": 82,
         "text": "Stand-up",
         "labels": [
-          "NOUN"
+          "PROPN"
         ]
       },
       {
@@ -2960,7 +2960,7 @@
         "end": 100,
         "text": "संबंध",
         "labels": [
-          "NOUN"
+          "X"
         ]
       },
       {
@@ -2984,7 +2984,7 @@
         "end": 116,
         "text": "प्राथमिक",
         "labels": [
-          "NUM"
+          "ADJ"
         ]
       },
       {
@@ -2992,7 +2992,7 @@
         "end": 122,
         "text": "चर्चा",
         "labels": [
-          "X"
+          "VERB"
         ]
       },
       {
@@ -3013,14 +3013,14 @@
       }
     ],
     "annotator": 1,
-    "annotation_id": 57,
-    "created_at": "2025-01-26T13:18:07.451431Z",
-    "updated_at": "2025-01-26T13:18:07.451431Z",
-    "lead_time": 203.059
+    "annotation_id": 60,
+    "created_at": "2025-01-26T13:19:05.322169Z",
+    "updated_at": "2025-01-26T13:19:05.322169Z",
+    "lead_time": 244.864
   },
   {
     "text": "मेरे नौजवान साथियो, 16 जनवरी को भारत सरकार ‘Start-up India, Stand-up India’ उसका पूरा action-plan launch करने वाली है।",
-    "id": 14757,
+    "id": 29196,
     "label": [
       {
         "start": 0,
@@ -3139,7 +3139,7 @@
         "end": 92,
         "text": "action",
         "labels": [
-          "VERB"
+          "NOUN"
         ]
       },
       {
@@ -3171,7 +3171,7 @@
         "end": 114,
         "text": "वाली",
         "labels": [
-          "VERB"
+          "PRON"
         ]
       },
       {
@@ -3179,19 +3179,19 @@
         "end": 117,
         "text": "है",
         "labels": [
-          "PART"
+          "VERB"
         ]
       }
     ],
     "annotator": 1,
-    "annotation_id": 58,
-    "created_at": "2025-01-26T13:20:12.054523Z",
-    "updated_at": "2025-01-26T13:20:12.054523Z",
-    "lead_time": 86.629
+    "annotation_id": 61,
+    "created_at": "2025-01-26T13:20:58.417510Z",
+    "updated_at": "2025-01-26T13:20:58.417510Z",
+    "lead_time": 109.234
   },
   {
     "text": "और इस कार्यक्रम में देशभर की IITs, IIMs, Central Universities, NITs, जहाँ-जहाँ युवा पीढ़ी है, उन सबको live-connectivity के द्वारा इस कार्यक्रम में जोड़ा जाएगा।",
-    "id": 14758,
+    "id": 29197,
     "label": [
       {
         "start": 0,
@@ -3206,7 +3206,7 @@
         "end": 5,
         "text": "इस",
         "labels": [
-          "PRON"
+          "DET"
         ]
       },
       {
@@ -3294,7 +3294,7 @@
         "end": 83,
         "text": "युवा",
         "labels": [
-          "ADJ"
+          "NOUN"
         ]
       },
       {
@@ -3310,7 +3310,7 @@
         "end": 91,
         "text": "है",
         "labels": [
-          "ADP"
+          "VERB"
         ]
       },
       {
@@ -3334,7 +3334,7 @@
         "end": 105,
         "text": "live",
         "labels": [
-          "PRON"
+          "NOUN"
         ]
       },
       {
@@ -3350,7 +3350,7 @@
         "end": 121,
         "text": "के",
         "labels": [
-          "ADP"
+          "VERB"
         ]
       },
       {
@@ -3358,7 +3358,7 @@
         "end": 128,
         "text": "द्वारा",
         "labels": [
-          "PART"
+          "NOUN"
         ]
       },
       {
@@ -3366,7 +3366,7 @@
         "end": 131,
         "text": "इस",
         "labels": [
-          "PRON"
+          "DET"
         ]
       },
       {
@@ -3374,7 +3374,7 @@
         "end": 141,
         "text": "कार्यक्रम",
         "labels": [
-          "NOUN"
+          "PROPN"
         ]
       },
       {
@@ -3403,21 +3403,21 @@
       }
     ],
     "annotator": 1,
-    "annotation_id": 59,
-    "created_at": "2025-01-26T13:23:25.323844Z",
-    "updated_at": "2025-01-26T13:23:25.323844Z",
-    "lead_time": 169.425
+    "annotation_id": 62,
+    "created_at": "2025-01-26T13:23:45.166441Z",
+    "updated_at": "2025-01-26T13:23:45.166441Z",
+    "lead_time": 164.81
   },
   {
     "text": "स्कूली बच्चों, कॉलेज के छात्रों, NCC, NSS, युवा संगठन, Media groups, Corporate जगत सभी ने, सभी ने बड़े पैमाने पर स्वच्छता श्रमदान किया।",
-    "id": 14759,
+    "id": 29198,
     "label": [
       {
         "start": 0,
         "end": 6,
         "text": "स्कूली",
         "labels": [
-          "NOUN"
+          "ADJ"
         ]
       },
       {
@@ -3441,7 +3441,7 @@
         "end": 23,
         "text": "के",
         "labels": [
-          "NOUN"
+          "ADP"
         ]
       },
       {
@@ -3465,7 +3465,7 @@
         "end": 41,
         "text": "NSS",
         "labels": [
-          "PROPN"
+          "NOUN"
         ]
       },
       {
@@ -3537,7 +3537,7 @@
         "end": 94,
         "text": "सभी",
         "labels": [
-          "NOUN"
+          "PRON"
         ]
       },
       {
@@ -3577,7 +3577,7 @@
         "end": 120,
         "text": "स्वच्छता",
         "labels": [
-          "NOUN"
+          "ADJ"
         ]
       },
       {
@@ -3585,7 +3585,7 @@
         "end": 128,
         "text": "श्रमदान",
         "labels": [
-          "NOUN"
+          "VERB"
         ]
       },
       {
@@ -3593,14 +3593,14 @@
         "end": 133,
         "text": "किया",
         "labels": [
-          "X"
+          "VERB"
         ]
       }
     ],
     "annotator": 1,
-    "annotation_id": 60,
-    "created_at": "2025-01-26T13:26:01.840069Z",
-    "updated_at": "2025-01-26T13:26:01.840069Z",
-    "lead_time": 155.012
+    "annotation_id": 63,
+    "created_at": "2025-01-26T13:26:23.782785Z",
+    "updated_at": "2025-01-26T13:26:23.782785Z",
+    "lead_time": 156.203
   }
 ]

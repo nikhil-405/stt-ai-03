@@ -1,0 +1,2726 @@
+[
+  {
+    "text": "मैं Aparna Athreya हूँ, मैं दो बच्चों की माँ हूँ, एक भारतीय वायुसेना के अफसर की बीवी हूँ और एक passionate storyteller हूँ सर।",
+    "id": 301,
+    "label": [
+      {
+        "start": 0,
+        "end": 3,
+        "text": "मैं",
+        "labels": [
+          "PRON"
+        ]
+      },
+      {
+        "start": 4,
+        "end": 18,
+        "text": "Aparna Athreya",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 19,
+        "end": 22,
+        "text": "हूँ",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 118,
+        "end": 121,
+        "text": "हूँ",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 24,
+        "end": 27,
+        "text": "मैं",
+        "labels": [
+          "PRON"
+        ]
+      },
+      {
+        "start": 28,
+        "end": 30,
+        "text": "दो",
+        "labels": [
+          "NUM"
+        ]
+      },
+      {
+        "start": 45,
+        "end": 48,
+        "text": "हूँ",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 31,
+        "end": 37,
+        "text": "बच्चों",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 85,
+        "end": 88,
+        "text": "हूँ",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 89,
+        "end": 91,
+        "text": "और",
+        "labels": [
+          "CONJ"
+        ]
+      },
+      {
+        "start": 92,
+        "end": 94,
+        "text": "एक",
+        "labels": [
+          "NUM"
+        ]
+      },
+      {
+        "start": 95,
+        "end": 105,
+        "text": "passionate",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 106,
+        "end": 117,
+        "text": "storyteller",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 50,
+        "end": 52,
+        "text": "एक",
+        "labels": [
+          "NUM"
+        ]
+      },
+      {
+        "start": 41,
+        "end": 44,
+        "text": "माँ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 53,
+        "end": 59,
+        "text": "भारतीय",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 122,
+        "end": 124,
+        "text": "सर",
+        "labels": [
+          "PRON"
+        ]
+      },
+      {
+        "start": 60,
+        "end": 68,
+        "text": "वायुसेना",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 80,
+        "end": 84,
+        "text": "बीवी",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 72,
+        "end": 77,
+        "text": "अफसर ",
+        "labels": [
+          "PRON"
+        ]
+      },
+      {
+        "start": 69,
+        "end": 71,
+        "text": "के",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 77,
+        "end": 80,
+        "text": "की ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 38,
+        "end": 40,
+        "text": "की",
+        "labels": [
+          "ADP"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1,
+    "created_at": "2025-01-24T09:46:49.912728Z",
+    "updated_at": "2025-01-24T09:47:11.945407Z",
+    "lead_time": 1381.0149999999999
+  },
+  {
+    "text": "वहां Ecological Protection Organisation नाम के एक NGO की पूरी टीम ने चंद्रपुर किले में सफाई का अभियान चलाया।",
+    "id": 302,
+    "label": [
+      {
+        "start": 0,
+        "end": 4,
+        "text": "वहां",
+        "labels": [
+          "PRON"
+        ]
+      },
+      {
+        "start": 5,
+        "end": 39,
+        "text": "Ecological Protection Organisation",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 44,
+        "end": 46,
+        "text": "के",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 92,
+        "end": 94,
+        "text": "का",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 54,
+        "end": 56,
+        "text": "की",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 69,
+        "end": 82,
+        "text": "चंद्रपुर किले",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 102,
+        "end": 107,
+        "text": "चलाया",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 95,
+        "end": 101,
+        "text": "अभियान",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 47,
+        "end": 49,
+        "text": "एक",
+        "labels": [
+          "NUM"
+        ]
+      },
+      {
+        "start": 50,
+        "end": 53,
+        "text": "NGO",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 83,
+        "end": 86,
+        "text": "में",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 57,
+        "end": 61,
+        "text": "पूरी",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 40,
+        "end": 43,
+        "text": "नाम",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 62,
+        "end": 65,
+        "text": "टीम",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 87,
+        "end": 90,
+        "text": "सफा",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 65,
+        "end": 68,
+        "text": " ने",
+        "labels": [
+          "ADP"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 2,
+    "created_at": "2025-01-24T09:53:22.259285Z",
+    "updated_at": "2025-01-24T09:53:22.259285Z",
+    "lead_time": 368.038
+  },
+  {
+    "text": "मैं Ecological Protection Organisation के और उनकी पूरी टीम को और चंद्रपुर के नागरिकों को बहुत-बहुत बधाई देता हूँ।",
+    "id": 303,
+    "label": [
+      {
+        "start": 0,
+        "end": 3,
+        "text": "मैं",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 4,
+        "end": 38,
+        "text": "Ecological Protection Organisation",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 65,
+        "end": 73,
+        "text": "चंद्रपुर",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 77,
+        "end": 85,
+        "text": "नागरिकों",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 50,
+        "end": 54,
+        "text": "पूरी",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 55,
+        "end": 58,
+        "text": "टीम",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 39,
+        "end": 41,
+        "text": "के",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 59,
+        "end": 61,
+        "text": "को",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 42,
+        "end": 44,
+        "text": "और",
+        "labels": [
+          "CONJ"
+        ]
+      },
+      {
+        "start": 45,
+        "end": 49,
+        "text": "उनकी",
+        "labels": [
+          "PRON"
+        ]
+      },
+      {
+        "start": 62,
+        "end": 64,
+        "text": "और",
+        "labels": [
+          "CONJ"
+        ]
+      },
+      {
+        "start": 74,
+        "end": 76,
+        "text": "के",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 86,
+        "end": 88,
+        "text": "को",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 109,
+        "end": 112,
+        "text": "हूँ",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 89,
+        "end": 98,
+        "text": "बहुत-बहुत",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 99,
+        "end": 103,
+        "text": "बधाई",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 104,
+        "end": 108,
+        "text": "देता",
+        "labels": [
+          "VERB"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 3,
+    "created_at": "2025-01-24T09:55:11.340300Z",
+    "updated_at": "2025-01-24T09:55:11.340300Z",
+    "lead_time": 100.461
+  },
+  {
+    "text": "आप लोगों को पता होगा, America की US Postal Service, उन्होंने इस बार दीपावली का postage stamp जारी किया है।",
+    "id": 304,
+    "label": [
+      {
+        "start": 0,
+        "end": 2,
+        "text": "आप",
+        "labels": [
+          "PRON"
+        ]
+      },
+      {
+        "start": 52,
+        "end": 60,
+        "text": "उन्होंने",
+        "labels": [
+          "PRON"
+        ]
+      },
+      {
+        "start": 22,
+        "end": 29,
+        "text": "America",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 33,
+        "end": 50,
+        "text": "US Postal Service",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 68,
+        "end": 75,
+        "text": "दीपावली",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 79,
+        "end": 92,
+        "text": "postage stamp",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 98,
+        "end": 105,
+        "text": "किया है",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 9,
+        "end": 11,
+        "text": "को",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 30,
+        "end": 32,
+        "text": "की",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 76,
+        "end": 78,
+        "text": "का",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 93,
+        "end": 97,
+        "text": "जारी",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 64,
+        "end": 67,
+        "text": "बार",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 3,
+        "end": 8,
+        "text": "लोगों",
+        "labels": [
+          "PRON"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 4,
+    "created_at": "2025-01-24T09:57:25.781014Z",
+    "updated_at": "2025-01-24T09:57:25.781014Z",
+    "lead_time": 131.344
+  },
+  {
+    "text": "विशेष रूप से CSIR, Indian Institute of Petroleum, Dehradun के वैज्ञानिकों को, जिन्होनें bio-fuel से विमान उड़ाने की तकनीक को संभव कर दिया।",
+    "id": 305,
+    "label": [
+      {
+        "start": 13,
+        "end": 58,
+        "text": "CSIR, Indian Institute of Petroleum, Dehradun",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 88,
+        "end": 96,
+        "text": "bio-fuel",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 10,
+        "end": 12,
+        "text": "से",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 59,
+        "end": 61,
+        "text": "के",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 74,
+        "end": 76,
+        "text": "को",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 78,
+        "end": 87,
+        "text": "जिन्होनें",
+        "labels": [
+          "PRON"
+        ]
+      },
+      {
+        "start": 97,
+        "end": 99,
+        "text": "से",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 100,
+        "end": 105,
+        "text": "विमान",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 106,
+        "end": 111,
+        "text": "उड़ाने",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 62,
+        "end": 73,
+        "text": "वैज्ञानिकों",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 112,
+        "end": 114,
+        "text": "की",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 121,
+        "end": 123,
+        "text": "को",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 129,
+        "end": 136,
+        "text": "कर दिया",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 124,
+        "end": 128,
+        "text": "संभव",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 115,
+        "end": 120,
+        "text": "तकनीक",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 0,
+        "end": 5,
+        "text": "विशेष",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 6,
+        "end": 9,
+        "text": "रूप",
+        "labels": [
+          "NOUN"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 5,
+    "created_at": "2025-01-24T10:01:28.056900Z",
+    "updated_at": "2025-01-24T10:01:28.056900Z",
+    "lead_time": 239.21
+  },
+  {
+    "text": "ये, दक्षिण अमेरिका में ANDES पर्वत की सबसे ऊँची चोटी है, जो लगभग 7000 meter ऊँची है।",
+    "id": 306,
+    "label": [
+      {
+        "start": 0,
+        "end": 2,
+        "text": "ये",
+        "labels": [
+          "PRON"
+        ]
+      },
+      {
+        "start": 4,
+        "end": 18,
+        "text": "दक्षिण अमेरिका",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 23,
+        "end": 34,
+        "text": "ANDES पर्वत",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 65,
+        "end": 69,
+        "text": "7000",
+        "labels": [
+          "NUM"
+        ]
+      },
+      {
+        "start": 81,
+        "end": 83,
+        "text": "है",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 35,
+        "end": 37,
+        "text": "की",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 53,
+        "end": 55,
+        "text": "है",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 43,
+        "end": 47,
+        "text": "ऊँची",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 48,
+        "end": 52,
+        "text": "चोटी",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 57,
+        "end": 59,
+        "text": "जो",
+        "labels": [
+          "PRON"
+        ]
+      },
+      {
+        "start": 60,
+        "end": 64,
+        "text": "लगभग",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 76,
+        "end": 80,
+        "text": "ऊँची",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 70,
+        "end": 75,
+        "text": "meter",
+        "labels": [
+          "NUM"
+        ]
+      },
+      {
+        "start": 38,
+        "end": 42,
+        "text": "सबसे",
+        "labels": [
+          "DET"
+        ]
+      },
+      {
+        "start": 19,
+        "end": 22,
+        "text": "में",
+        "labels": [
+          "ADP"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 6,
+    "created_at": "2025-01-24T10:17:39.592325Z",
+    "updated_at": "2025-01-24T10:17:39.592325Z",
+    "lead_time": 330.328
+  },
+  {
+    "text": "एक प्राचीन पुर्तगाली दस्तावेज के मुताबिक Saint Queen Ketevan की अस्थियों को Old Goa के Saint Augustine Convent में रखा गया था।",
+    "id": 307,
+    "label": [
+      {
+        "start": 0,
+        "end": 2,
+        "text": "एक",
+        "labels": [
+          "NUM"
+        ]
+      },
+      {
+        "start": 3,
+        "end": 10,
+        "text": "प्राचीन",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 11,
+        "end": 20,
+        "text": "पुर्तगाली",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 21,
+        "end": 29,
+        "text": "दस्तावेज",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 41,
+        "end": 60,
+        "text": "Saint Queen Ketevan",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 76,
+        "end": 83,
+        "text": "Old Goa",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 87,
+        "end": 110,
+        "text": "Saint Augustine Convent",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 115,
+        "end": 125,
+        "text": "रखा गया था",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 30,
+        "end": 32,
+        "text": "के",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 61,
+        "end": 63,
+        "text": "की",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 84,
+        "end": 86,
+        "text": "के",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 111,
+        "end": 114,
+        "text": "में",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 73,
+        "end": 75,
+        "text": "को",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 64,
+        "end": 72,
+        "text": "अस्थियों",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 33,
+        "end": 40,
+        "text": "मुताबिक",
+        "labels": [
+          "PART"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 7,
+    "created_at": "2025-01-24T10:20:39.977667Z",
+    "updated_at": "2025-01-24T10:20:39.977667Z",
+    "lead_time": 173.291
+  },
+  {
+    "text": "गुजरात में नर्मदा नदी के तट पर स्थापित इस प्रतिमा की ऊँचाई अमेरिका के Statue of Liberty से दो गुनी है।",
+    "id": 308,
+    "label": [
+      {
+        "start": 0,
+        "end": 6,
+        "text": "गुजरात",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 11,
+        "end": 21,
+        "text": "नर्मदा नदी",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 70,
+        "end": 87,
+        "text": "Statue of Liberty",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 42,
+        "end": 49,
+        "text": "प्रतिमा",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 59,
+        "end": 66,
+        "text": "अमेरिका",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 91,
+        "end": 98,
+        "text": "दो गुनी",
+        "labels": [
+          "NUM"
+        ]
+      },
+      {
+        "start": 99,
+        "end": 101,
+        "text": "है",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 67,
+        "end": 69,
+        "text": "के",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 88,
+        "end": 90,
+        "text": "से",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 52,
+        "end": 53,
+        "text": " ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 22,
+        "end": 24,
+        "text": "के",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 7,
+        "end": 10,
+        "text": "में",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 50,
+        "end": 52,
+        "text": "की",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 28,
+        "end": 30,
+        "text": "पर",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 25,
+        "end": 27,
+        "text": "तट",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 31,
+        "end": 38,
+        "text": "स्थापित",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 39,
+        "end": 41,
+        "text": "इस",
+        "labels": [
+          "PRON"
+        ]
+      },
+      {
+        "start": 53,
+        "end": 58,
+        "text": "ऊँचाई",
+        "labels": [
+          "NOUN"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 8,
+    "created_at": "2025-01-24T10:22:32.266796Z",
+    "updated_at": "2025-01-24T10:22:32.267853Z",
+    "lead_time": 103.684
+  },
+  {
+    "text": "इसी तरह से Argentina में हुई Summer Youth Olympics 2018 के विजेताओं से मिलने का मौका मिला।",
+    "id": 309,
+    "label": [
+      {
+        "start": 11,
+        "end": 20,
+        "text": "Argentina",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 29,
+        "end": 55,
+        "text": "Summer Youth Olympics 2018",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 59,
+        "end": 67,
+        "text": "विजेताओं",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 8,
+        "end": 10,
+        "text": "से",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 21,
+        "end": 24,
+        "text": "में",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 56,
+        "end": 58,
+        "text": "के",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 68,
+        "end": 70,
+        "text": "से",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 77,
+        "end": 79,
+        "text": "का",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 71,
+        "end": 76,
+        "text": "मिलने",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 85,
+        "end": 89,
+        "text": "मिला",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 80,
+        "end": 84,
+        "text": "मौका",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 4,
+        "end": 7,
+        "text": "तरह",
+        "labels": [
+          "PART"
+        ]
+      },
+      {
+        "start": 0,
+        "end": 3,
+        "text": "इसी",
+        "labels": [
+          "PRON"
+        ]
+      },
+      {
+        "start": 25,
+        "end": 28,
+        "text": "हुई",
+        "labels": [
+          "VERB"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9,
+    "created_at": "2025-01-24T10:23:43.705937Z",
+    "updated_at": "2025-01-24T10:23:43.705937Z",
+    "lead_time": 69.193
+  },
+  {
+    "text": "मध्य भारत की गोंड जनजाति breeding season में केथन नदी के कुछ हिस्सों में मछली पकड़ना बंद कर देते हैं।",
+    "id": 310,
+    "label": [
+      {
+        "start": 0,
+        "end": 9,
+        "text": "मध्य भारत",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 10,
+        "end": 12,
+        "text": "की",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 41,
+        "end": 44,
+        "text": "में",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 54,
+        "end": 56,
+        "text": "के",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 69,
+        "end": 72,
+        "text": "में",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 84,
+        "end": 99,
+        "text": "बंद कर देते हैं",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 78,
+        "end": 83,
+        "text": "पकड़ना",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 25,
+        "end": 40,
+        "text": "breeding season",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 73,
+        "end": 77,
+        "text": "मछली",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 45,
+        "end": 53,
+        "text": "केथन नदी",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 57,
+        "end": 60,
+        "text": "कुछ",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 61,
+        "end": 68,
+        "text": "हिस्सों",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 13,
+        "end": 24,
+        "text": "गोंड जनजाति",
+        "labels": [
+          "PROPN"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 10,
+    "created_at": "2025-01-24T10:25:03.345298Z",
+    "updated_at": "2025-01-24T10:25:03.345298Z",
+    "lead_time": 77.197
+  },
+  {
+    "text": "NarendraModiApp पर उडुपी, कर्नाटक के श्री ओंकार शेट्टी जी ने National War Memorial तैयार होने पर अपनी प्रसन्नता व्यक्त की है।",
+    "id": 311,
+    "label": [
+      {
+        "start": 0,
+        "end": 15,
+        "text": "NarendraModiApp",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 26,
+        "end": 33,
+        "text": "कर्नाटक",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 19,
+        "end": 24,
+        "text": "उडुपी",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 16,
+        "end": 18,
+        "text": "पर",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 37,
+        "end": 57,
+        "text": "श्री ओंकार शेट्टी जी",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 61,
+        "end": 82,
+        "text": "National War Memorial",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 83,
+        "end": 93,
+        "text": "तैयार होने",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 119,
+        "end": 124,
+        "text": "की है",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 34,
+        "end": 36,
+        "text": "के",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 58,
+        "end": 60,
+        "text": "ने",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 94,
+        "end": 96,
+        "text": "पर",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 97,
+        "end": 101,
+        "text": "अपनी",
+        "labels": [
+          "PRON"
+        ]
+      },
+      {
+        "start": 102,
+        "end": 111,
+        "text": "प्रसन्नता",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 112,
+        "end": 118,
+        "text": "व्यक्त",
+        "labels": [
+          "VERB"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 11,
+    "created_at": "2025-01-24T10:27:05.353976Z",
+    "updated_at": "2025-01-24T10:27:05.353976Z",
+    "lead_time": 74.103
+  },
+  {
+    "text": "ये उनका ही vision था जिसके परिणामस्वरूप Tata Institute of Science की स्थापना हुई जिसे अब Indian Institute of Science कहा जाता है।",
+    "id": 312,
+    "label": [
+      {
+        "start": 0,
+        "end": 2,
+        "text": "ये",
+        "labels": [
+          "PRON"
+        ]
+      },
+      {
+        "start": 3,
+        "end": 7,
+        "text": "उनका",
+        "labels": [
+          "PRON"
+        ]
+      },
+      {
+        "start": 18,
+        "end": 20,
+        "text": "था",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 11,
+        "end": 17,
+        "text": "vision",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 39,
+        "end": 65,
+        "text": " Tata Institute of Science",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 90,
+        "end": 116,
+        "text": "ndian Institute of Science",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 126,
+        "end": 128,
+        "text": "है",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 77,
+        "end": 80,
+        "text": "हुई",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 81,
+        "end": 85,
+        "text": "जिसे",
+        "labels": [
+          "PRON"
+        ]
+      },
+      {
+        "start": 21,
+        "end": 26,
+        "text": "जिसके",
+        "labels": [
+          "PRON"
+        ]
+      },
+      {
+        "start": 27,
+        "end": 39,
+        "text": "परिणामस्वरूप",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 8,
+        "end": 10,
+        "text": "ही",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 66,
+        "end": 68,
+        "text": "की",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 69,
+        "end": 76,
+        "text": "स्थापना",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 117,
+        "end": 120,
+        "text": "कहा",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 121,
+        "end": 125,
+        "text": "जाता",
+        "labels": [
+          "VERB"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 12,
+    "created_at": "2025-01-24T10:28:33.210607Z",
+    "updated_at": "2025-01-24T10:28:33.210607Z",
+    "lead_time": 70.227
+  },
+  {
+    "text": "अब्दुल गफूर द्वारा बनाई गई ‘Tree of Life’ कलाकृति को ही मैंने अमेरिका के पूर्व राष्ट्रपति बराक ओबामा को उपहार में दिया था।",
+    "id": 313,
+    "label": [
+      {
+        "start": 0,
+        "end": 11,
+        "text": "अब्दुल गफूर",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 28,
+        "end": 40,
+        "text": "Tree of Life",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 19,
+        "end": 23,
+        "text": "बनाई",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 79,
+        "end": 100,
+        "text": "राष्ट्रपति बराक ओबामा",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 114,
+        "end": 121,
+        "text": "दिया था",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 110,
+        "end": 113,
+        "text": "में",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 70,
+        "end": 72,
+        "text": "के",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 101,
+        "end": 103,
+        "text": "को",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 50,
+        "end": 52,
+        "text": "को",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 53,
+        "end": 55,
+        "text": "ही",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 56,
+        "end": 61,
+        "text": "मैंने",
+        "labels": [
+          "PRON"
+        ]
+      },
+      {
+        "start": 73,
+        "end": 78,
+        "text": "पूर्व",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 62,
+        "end": 69,
+        "text": "अमेरिका",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 42,
+        "end": 49,
+        "text": "कलाकृति",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 104,
+        "end": 109,
+        "text": "उपहार",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 12,
+        "end": 18,
+        "text": "द्वारा",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 24,
+        "end": 26,
+        "text": "गई",
+        "labels": [
+          "VERB"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 13,
+    "created_at": "2025-01-24T10:30:04.176398Z",
+    "updated_at": "2025-01-24T10:30:04.176398Z",
+    "lead_time": 89.264
+  },
+  {
+    "text": "किसान चाची ने अपने इलाके की 300 महिलाओं को ‘Self Help Group’ से जोड़ा और आर्थिक रूप से स्वावलंबी बनाने के लिए प्रेरित किया।",
+    "id": 314,
+    "label": [
+      {
+        "start": 0,
+        "end": 5,
+        "text": "किसान",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 6,
+        "end": 10,
+        "text": "चाची",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 11,
+        "end": 13,
+        "text": "ने",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 14,
+        "end": 18,
+        "text": "अपने",
+        "labels": [
+          "PRON"
+        ]
+      },
+      {
+        "start": 19,
+        "end": 24,
+        "text": "इलाके",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 25,
+        "end": 27,
+        "text": "की",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 32,
+        "end": 39,
+        "text": "महिलाओं",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 44,
+        "end": 59,
+        "text": "Self Help Group",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 40,
+        "end": 42,
+        "text": "को",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 61,
+        "end": 63,
+        "text": "से",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 64,
+        "end": 68,
+        "text": "जोड़ा",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 69,
+        "end": 71,
+        "text": "और",
+        "labels": [
+          "CONJ"
+        ]
+      },
+      {
+        "start": 72,
+        "end": 82,
+        "text": "आर्थिक रूप",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 83,
+        "end": 85,
+        "text": "से",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 109,
+        "end": 121,
+        "text": "प्रेरित किया",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 86,
+        "end": 95,
+        "text": "स्वावलंबी",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 96,
+        "end": 101,
+        "text": "बनाने",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 102,
+        "end": 108,
+        "text": "के लिए",
+        "labels": [
+          "PART"
+        ]
+      },
+      {
+        "start": 28,
+        "end": 31,
+        "text": "300",
+        "labels": [
+          "NUM"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 14,
+    "created_at": "2025-01-24T10:32:15.417360Z",
+    "updated_at": "2025-01-24T10:32:15.417360Z",
+    "lead_time": 108.114
+  },
+  {
+    "text": "लखपत गुरुद्वारा के संरक्षण के प्रयासों को 2004 में UNESCO Asia Pacific Heritage Award में Award of Distinction दिया गया।",
+    "id": 315,
+    "label": [
+      {
+        "start": 0,
+        "end": 4,
+        "text": "लखपत",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 5,
+        "end": 15,
+        "text": "गुरुद्वारा",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 16,
+        "end": 18,
+        "text": "के",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 39,
+        "end": 41,
+        "text": "को",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 42,
+        "end": 46,
+        "text": "2004",
+        "labels": [
+          "NUM"
+        ]
+      },
+      {
+        "start": 51,
+        "end": 85,
+        "text": "UNESCO Asia Pacific Heritage Award",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 90,
+        "end": 110,
+        "text": "Award of Distinction",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 111,
+        "end": 119,
+        "text": "दिया गया",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 86,
+        "end": 89,
+        "text": "में",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 47,
+        "end": 50,
+        "text": "में",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 27,
+        "end": 29,
+        "text": "के",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 19,
+        "end": 26,
+        "text": "संरक्षण",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 30,
+        "end": 38,
+        "text": "प्रयासों",
+        "labels": [
+          "VERB"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 15,
+    "created_at": "2025-01-24T10:33:37.827753Z",
+    "updated_at": "2025-01-24T10:33:37.827753Z",
+    "lead_time": 78.19
+  },
+  {
+    "text": "पराली का समाधान करने के लिए वीरेन्द्र जी ने, पुआल की गांठ बनाने वाली straw baler मशीन खरीदी।",
+    "id": 316,
+    "label": [
+      {
+        "start": 0,
+        "end": 5,
+        "text": "पराली",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 6,
+        "end": 8,
+        "text": "का",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 9,
+        "end": 16,
+        "text": "समाधान ",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 16,
+        "end": 20,
+        "text": "करने",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 21,
+        "end": 23,
+        "text": "के",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 41,
+        "end": 43,
+        "text": "ने",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 24,
+        "end": 27,
+        "text": "लिए",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 28,
+        "end": 40,
+        "text": "वीरेन्द्र जी",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 45,
+        "end": 68,
+        "text": "पुआल की गांठ बनाने वाली",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 69,
+        "end": 85,
+        "text": "straw baler मशीन",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 86,
+        "end": 91,
+        "text": "खरीदी",
+        "labels": [
+          "VERB"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 16,
+    "created_at": "2025-01-24T10:34:57.457332Z",
+    "updated_at": "2025-01-24T10:34:57.457332Z",
+    "lead_time": 67.922
+  },
+  {
+    "text": "मेरे प्यारे नौजवान साथियो, 15 अगस्त को लाल किले से मैंने ‘Start-up India, Stand-up India’ उसके संबंध में एक प्राथमिक चर्चा की थी।",
+    "id": 317,
+    "label": [
+      {
+        "start": 0,
+        "end": 4,
+        "text": "मेरे",
+        "labels": [
+          "PRON"
+        ]
+      },
+      {
+        "start": 5,
+        "end": 11,
+        "text": "प्यारे",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 12,
+        "end": 25,
+        "text": "नौजवान साथियो",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 27,
+        "end": 29,
+        "text": "15",
+        "labels": [
+          "NUM"
+        ]
+      },
+      {
+        "start": 30,
+        "end": 35,
+        "text": "अगस्त",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 36,
+        "end": 38,
+        "text": "को",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 39,
+        "end": 47,
+        "text": "लाल किले",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 58,
+        "end": 88,
+        "text": "Start-up India, Stand-up India",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 123,
+        "end": 128,
+        "text": "की थी",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 48,
+        "end": 50,
+        "text": "से",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 51,
+        "end": 56,
+        "text": "मैंने",
+        "labels": [
+          "PRON"
+        ]
+      },
+      {
+        "start": 90,
+        "end": 94,
+        "text": "उसके",
+        "labels": [
+          "PRON"
+        ]
+      },
+      {
+        "start": 95,
+        "end": 100,
+        "text": "संबंध",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 101,
+        "end": 104,
+        "text": "में",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 105,
+        "end": 107,
+        "text": "एक",
+        "labels": [
+          "NUM"
+        ]
+      },
+      {
+        "start": 108,
+        "end": 122,
+        "text": "प्राथमिक चर्चा",
+        "labels": [
+          "NOUN"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 17,
+    "created_at": "2025-01-24T10:38:46.635583Z",
+    "updated_at": "2025-01-24T10:38:46.635583Z",
+    "lead_time": 213.512
+  },
+  {
+    "text": "मेरे नौजवान साथियो, 16 जनवरी को भारत सरकार ‘Start-up India, Stand-up India’ उसका पूरा action-plan launch करने वाली है।",
+    "id": 318,
+    "label": [
+      {
+        "start": 0,
+        "end": 4,
+        "text": "मेरे",
+        "labels": [
+          "PRON"
+        ]
+      },
+      {
+        "start": 5,
+        "end": 18,
+        "text": "नौजवान साथियो",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 20,
+        "end": 22,
+        "text": "16",
+        "labels": [
+          "NUM"
+        ]
+      },
+      {
+        "start": 23,
+        "end": 28,
+        "text": "जनवरी",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 29,
+        "end": 31,
+        "text": "को",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 32,
+        "end": 42,
+        "text": "भारत सरकार",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 44,
+        "end": 74,
+        "text": "Start-up India, Stand-up India",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 76,
+        "end": 80,
+        "text": "उसका",
+        "labels": [
+          "PRON"
+        ]
+      },
+      {
+        "start": 81,
+        "end": 85,
+        "text": "पूरा",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 86,
+        "end": 97,
+        "text": "action-plan",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 98,
+        "end": 117,
+        "text": "launch करने वाली है",
+        "labels": [
+          "VERB"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 18,
+    "created_at": "2025-01-24T10:40:17.360570Z",
+    "updated_at": "2025-01-24T10:40:17.360570Z",
+    "lead_time": 88.925
+  },
+  {
+    "text": "और इस कार्यक्रम में देशभर की IITs, IIMs, Central Universities, NITs, जहाँ-जहाँ युवा पीढ़ी है, उन सबको live-connectivity के द्वारा इस कार्यक्रम में जोड़ा जाएगा।",
+    "id": 319,
+    "label": [
+      {
+        "start": 0,
+        "end": 2,
+        "text": "और",
+        "labels": [
+          "CONJ"
+        ]
+      },
+      {
+        "start": 3,
+        "end": 5,
+        "text": "इस",
+        "labels": [
+          "PRON"
+        ]
+      },
+      {
+        "start": 6,
+        "end": 15,
+        "text": "कार्यक्रम",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 16,
+        "end": 19,
+        "text": "में",
+        "labels": [
+          "PRON"
+        ]
+      },
+      {
+        "start": 29,
+        "end": 68,
+        "text": "IITs, IIMs, Central Universities, NITs,",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 20,
+        "end": 25,
+        "text": "देशभर",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 26,
+        "end": 28,
+        "text": "की",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 69,
+        "end": 78,
+        "text": "जहाँ-जहाँ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 79,
+        "end": 88,
+        "text": "युवा पीढ़ी",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 89,
+        "end": 91,
+        "text": "है",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 93,
+        "end": 95,
+        "text": "उन",
+        "labels": [
+          "PRON"
+        ]
+      },
+      {
+        "start": 96,
+        "end": 100,
+        "text": "सबको",
+        "labels": [
+          "PRON"
+        ]
+      },
+      {
+        "start": 101,
+        "end": 118,
+        "text": "live-connectivity",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 119,
+        "end": 121,
+        "text": "के",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 122,
+        "end": 128,
+        "text": "द्वारा",
+        "labels": [
+          "PART"
+        ]
+      },
+      {
+        "start": 129,
+        "end": 131,
+        "text": "इस",
+        "labels": [
+          "PRON"
+        ]
+      },
+      {
+        "start": 132,
+        "end": 141,
+        "text": "कार्यक्रम",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 142,
+        "end": 145,
+        "text": "में",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 146,
+        "end": 156,
+        "text": "जोड़ा जाएगा",
+        "labels": [
+          "VERB"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 19,
+    "created_at": "2025-01-24T10:42:29.878414Z",
+    "updated_at": "2025-01-24T10:42:29.878414Z",
+    "lead_time": 130.111
+  },
+  {
+    "text": "स्कूली बच्चों, कॉलेज के छात्रों, NCC, NSS, युवा संगठन, Media groups, Corporate जगत सभी ने, सभी ने बड़े पैमाने पर स्वच्छता श्रमदान किया।",
+    "id": 320,
+    "label": [
+      {
+        "start": 0,
+        "end": 13,
+        "text": "स्कूली बच्चों",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 15,
+        "end": 31,
+        "text": "कॉलेज के छात्रों",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 33,
+        "end": 36,
+        "text": "NCC",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 38,
+        "end": 41,
+        "text": "NSS",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 43,
+        "end": 53,
+        "text": "युवा संगठन",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 55,
+        "end": 67,
+        "text": "Media groups",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 69,
+        "end": 82,
+        "text": "Corporate जगत",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 83,
+        "end": 86,
+        "text": "सभी",
+        "labels": [
+          "PRON"
+        ]
+      },
+      {
+        "start": 87,
+        "end": 89,
+        "text": "ने",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 91,
+        "end": 94,
+        "text": "सभी",
+        "labels": [
+          "PRON"
+        ]
+      },
+      {
+        "start": 95,
+        "end": 97,
+        "text": "ने",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 98,
+        "end": 101,
+        "text": "बड़े",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 102,
+        "end": 108,
+        "text": "पैमाने",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 109,
+        "end": 111,
+        "text": "पर",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 112,
+        "end": 128,
+        "text": "स्वच्छता श्रमदान",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 129,
+        "end": 133,
+        "text": "किया",
+        "labels": [
+          "VERB"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 20,
+    "created_at": "2025-01-24T10:43:51.893293Z",
+    "updated_at": "2025-01-24T10:43:51.893293Z",
+    "lead_time": 79.58
+  }
+]
